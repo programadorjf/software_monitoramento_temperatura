@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+environment/project/cdt.managedbuild.config.gnu.mingw.exe.release.929550635.1370262808/MINGW_HOME/delimiter=;
+environment/project/cdt.managedbuild.config.gnu.mingw.exe.release.929550635.1370262808/MINGW_HOME/operation=replace
+environment/project/cdt.managedbuild.config.gnu.mingw.exe.release.929550635.1370262808/MINGW_HOME/value=C\:\\MinGW
+environment/project/cdt.managedbuild.config.gnu.mingw.exe.release.929550635.1370262808/MSYS_HOME/delimiter=;
+environment/project/cdt.managedbuild.config.gnu.mingw.exe.release.929550635.1370262808/MSYS_HOME/operation=replace
+environment/project/cdt.managedbuild.config.gnu.mingw.exe.release.929550635.1370262808/MSYS_HOME/value=C\:\\MinGW\\msys\\1.0\\bin
+environment/project/cdt.managedbuild.config.gnu.mingw.exe.release.929550635.1370262808/PATH/delimiter=;
+environment/project/cdt.managedbuild.config.gnu.mingw.exe.release.929550635.1370262808/PATH/operation=replace
+environment/project/cdt.managedbuild.config.gnu.mingw.exe.release.929550635.1370262808/PATH/value=${MINGW_HOME}\\bin;${MSYS_HOME}\\bin;${MSYS_HOME}\\usr\\bin;C\:\\cevelop-1.10.1
+environment/project/cdt.managedbuild.config.gnu.mingw.exe.release.929550635.1370262808/append=true
+environment/project/cdt.managedbuild.config.gnu.mingw.exe.release.929550635.1370262808/appendContributed=true
